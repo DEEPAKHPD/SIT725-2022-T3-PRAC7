@@ -1,0 +1,26 @@
+{
+  "name": "sit725-2022-t3-prac2",
+  "version": "1.0.0",
+  "description": "Practical2",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DEEPAKHPD/SIT725-2022-T3-PRAC2.git"
+  },
+  "keywords": [
+    "Express",
+    "Node"
+  ],
+  "author": "Deepak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DEEPAKHPD/SIT725-2022-T3-PRAC2/issues"
+  },
+  "homepage": "https://github.com/DEEPAKHPD/SIT725-2022-T3-PRAC2#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
