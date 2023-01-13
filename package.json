@@ -1,14 +1,14 @@
 {
-  "name": "sit725-2022-t3-prac4",
+  "name": "sit725-2022-t3-prac5",
   "version": "1.0.0",
-  "description": "Practical4",
+  "description": "Practical5",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DEEPAKHPD/SIT725-2022-T3-PRAC4.git"
+    "url": "git+https://github.com/DEEPAKHPD/SIT725-2022-T3-PRAC5.git"
   },
   "keywords": [
     "Express",
@@ -17,11 +17,12 @@
   "author": "Deepak",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/DEEPAKHPD/SIT725-2022-T3-PRAC4/issues"
+    "url": "https://github.com/DEEPAKHPD/SIT725-2022-T3-PRAC5/issues"
   },
-  "homepage": "https://github.com/DEEPAKHPD/SIT725-2022-T3-PRAC4#readme",
+  "homepage": "https://github.com/DEEPAKHPD/SIT725-2022-T3-PRAC5#readme",
   "dependencies": {
     "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
     "express": "^4.18.2",
     "mongodb": "^4.12.1"
   }
